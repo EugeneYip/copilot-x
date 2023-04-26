@@ -2,7 +2,7 @@
 
 Copilot X is an AI-powered code completion tool developed by GitHub, based on OpenAI's GPT architecture. It helps you write code faster and more efficiently, and can also provide suggestions for your projects.
 
-This guide will walk you through the basics of using Copilot X, from installation to usage. Let's get started! ([中文指南](#指南))
+This guide will walk you through the basics of using Copilot X, from installation to usage. Let's get started! ([中文指南](#copilot-x初學者指南))
 
 ## Table of Contents
 
@@ -103,7 +103,7 @@ With this beginner's guide, you should be well-equipped to start using Copilot X
 
 歡迎閱讀 Copilot X 的初學者指南！Copilot X 是由 GitHub 開發的基於 OpenAI GPT 架構的 AI 驅動代碼補全工具。它可以幫助您更快、更高效地編寫代碼，並為您的項目提供建議。
 
-本指南將指導您從安裝到使用 Copilot X 的基本知識。讓我們開始吧！ ([English Guide](#Guide))
+本指南將指導您從安裝到使用 Copilot X 的基本知識。讓我們開始吧！ ([English Guide](#copilot-x-a-beginners-guide))
 
 ## 目錄
 
